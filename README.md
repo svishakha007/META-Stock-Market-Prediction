@@ -330,62 +330,8 @@ Probability of DOWN: XX.XX %
 Probability of UP: XX.XX %
 ```
 
----
-
-## 🚀 How to Run the Project
-
-### 1. Clone the repository
-
-```bash
-git clone https://github.com/your-username/META-Stock-Prediction.git
-```
-
-### 2. Open the project
-
-Navigate to the project directory:
-
-```bash
-cd META-Stock-Prediction
-```
-
-### 3. Install the required libraries
-
-```bash
-pip install yfinance pandas scikit-learn
-```
-
-The notebook also contains:
-
-```python
-!pip install yfinance
-```
-
-if you are working in Google Colab.
-
-### 4. Open the notebook
-
-You can open:
-
-```text
-Finance.ipynb
-```
-
-using:
-
-* Jupyter Notebook
-* JupyterLab
-* Google Colab
-* VS Code
-
-### 5. Run the cells
-
-Run the notebook cells from top to bottom.
-
----
-
 ## 🔄 Project Workflow
 
-```text
 Yahoo Finance
       ↓
 META Financial Data
