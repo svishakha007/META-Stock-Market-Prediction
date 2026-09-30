@@ -60,11 +60,11 @@ The main objectives of this project are:
 ```text
 META-Stock-Prediction/
 │
-├── Finance.ipynb
+├── Stock_prediction.ipynb
 └── README.md
 ```
 
-### `Finance.ipynb`
+### `Stock_prediction.ipynb`
 
 The Jupyter Notebook contains the complete implementation, including:
 
